@@ -5,7 +5,7 @@
 A brief description of what this project does and who it is for.
 
 ## Some advise
-Considerations, versions of libraries, 
+Considerations, versions of libraries, bugs 
 
 ## Geting Started
 
@@ -27,9 +27,9 @@ For the versions available, see the [tags on this repository](https://github.com
 
 ## Authors ✒️
 
-* **Jonh Doe** - *Initial work* [opticrd](https://github.com/User)
+* **Jonh Doe** - *Initial work* - [opticrd](https://github.com/opticrd)
 
-* **Jonh Doe** - *Maintainer*   [opticrd](https://github.com/User)
+* **Jonh Doe** - *Maintainer* -  [opticrd](https://github.com/opticrd)
 
 
 ---
