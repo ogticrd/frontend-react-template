@@ -17,9 +17,9 @@ Steps to follow, installations
 
 
 ## Built With 🛠️
-* [Tecnologie 1 - version](url)
-* [Tecnologie 2 - version](url)
-* [Tecnologie 3 - version](url)
+* [Technology 1 - version](url)
+* [Technology 2 - version](url)
+* [Technology 3 - version](url)
 
 ## Versioning. 📌
 
